@@ -69,7 +69,7 @@ To make backpropagation feasible in a stochastic model, the reparameterization t
         </td>
     </tr>
 </table>
-    <h4>CIFAR10 DATA RESULTS</h4>
+<h4>CIFAR10 DATA RESULTS</h4>
 
 <table>
         <tr>
@@ -148,7 +148,7 @@ To make backpropagation feasible in a stochastic model, the reparameterization t
         </td>
     </tr>
 </table>
-    <h4>CIFAR10 DATA RESULTS</h4>
+<h4>CIFAR10 DATA RESULTS</h4>
 
 <table>
         <tr>
