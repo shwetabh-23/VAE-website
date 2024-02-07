@@ -1,5 +1,4 @@
-# AI-Assistant
-
+# Variational Autoencoders
 ## Description
 
 A Variational Autoencoder (VAE) is a type of generative model used in unsupervised learning, particularly in the domain of deep learning and neural networks. The primary purpose of a VAE is to model the underlying distribution of input data, enabling the generation of new samples that resemble the training data.
